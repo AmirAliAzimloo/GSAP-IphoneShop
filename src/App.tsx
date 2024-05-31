@@ -9,7 +9,7 @@ import Navbar from "./components/Navbar"
 import * as Sentry from '@sentry/react';
 
 const App = () => {
-  return (
+  return ( 
     <main className="bg-black"> 
       <Navbar />
       <Hero />
